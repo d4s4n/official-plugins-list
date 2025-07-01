@@ -137,5 +137,16 @@
    "categories": ["Команды"],
    "supportedHosts": [],
    "dependencies": ["parser-keksik"]
+ },
+ {
+   "id": "weather-command",
+   "name": "weather-command",
+   "author": "I_Sahorok",
+   "description": "Добавляет вашему боту команду /weather, которая показывает погоду по указанному городу. Информация предоставляется через Open-Meteo API.",
+   "repoUrl": "https://github.com/d4s4n/weather-command",
+   "icon": "cloud-sun",
+   "latestTag": "v1.0.0",
+   "categories": ["Команды"],
+   "supportedHosts": []
  }
 ]
